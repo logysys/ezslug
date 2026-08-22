@@ -1,0 +1,2 @@
+# ezslug
+micro wiki
